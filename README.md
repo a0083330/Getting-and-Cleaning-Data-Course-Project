@@ -15,6 +15,8 @@ This file explains the run_analysis.R script.
 
 
 
+
+
 The following explains how the 'run_analysis.R' script works.
 
 Assumption:
