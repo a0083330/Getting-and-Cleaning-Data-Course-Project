@@ -69,6 +69,6 @@ The script does the following steps:
 Outputs of the script are:
 =========================================
 
-- 'resultData.csv': data set outputted after step 4, refer to 'codebook-resultData.txt' for explanation.
+- 'resultData.csv': data set outputted after step 4, refer to 'CodeBook.md' for explanation.
 
-- 'summarizeData.csv': data set outputted after step5, refer to 'codebook-summarizeData.txt' for explanation.
+- 'summarizeData.csv': data set outputted after step5, refer to 'CodeBook.md' for explanation.
