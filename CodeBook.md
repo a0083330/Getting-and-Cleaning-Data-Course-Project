@@ -1,7 +1,7 @@
 
-The following explains the columns in 'resultData.csv'.
+The following explains the variables in 'resultData.txt'.
 
-While 'summarizeData.csv' has the same columns, the data set is summarized data which are average values of each variable for each activity and each subject.
+While 'summarizeData.txt' has the same variables, the data set is summarized data which are average values of each variable for each activity and each subject.
 
 
 ============================================================================================================

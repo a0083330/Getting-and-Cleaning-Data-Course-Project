@@ -5,16 +5,15 @@ There are 5 files under this repository:
 
 - 'README.md': the file to explain the script above and related files.
 
-- 'resultData.csv': the output data set required as cleaned data.
+- 'resultData.txt': the output data set required as cleaned data.
 
-- 'summarizeData.csv': the output data set required as summarized data.
+- 'summarizeData.txt': the output data set required as summarized data.
 
-- 'CodeBook.md': explains the content of the 2 csv files above
+- 'CodeBook.md': explains the content of the 2 txt files above
 
 This file explains the run_analysis.R script.
 
 
-<br /><br /><br />
 
 The following explains how the 'run_analysis.R' script works.
 
@@ -61,15 +60,14 @@ The script does the following steps:
 
 3. Uses descriptive activity names to name the activities in the data set.
 
-4. Appropriately labels the data set with descriptive variable names. The result of step 4 is 'resultData.csv'
+4. Appropriately labels the data set with descriptive variable names. The result of step 4 is 'resultData.txt'
 
-5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-   The result of step 5 is 'summarizeData.csv'
+5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject. The result of step 5 is 'summarizeData.txt'
 
 
 Outputs of the script are:
 =========================================
 
-- 'resultData.csv': data set outputted after step 4, refer to 'CodeBook.md' for explanation.
+- 'resultData.txt': data set outputted after step 4, refer to 'codebook-resultData.txt' for explanation.
 
-- 'summarizeData.csv': data set outputted after step5, refer to 'CodeBook.md' for explanation.
+- 'summarizeData.txt': data set outputted after step5, refer to 'codebook-summarizeData.txt' for explanation.
